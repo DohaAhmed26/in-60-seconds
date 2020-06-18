@@ -1,17 +1,14 @@
-# Let's Get **Started**
+# Final **Assignment**
 
 ---
 
-### Add Some Slide Candy
+### Introduction - Business Problem
 
 ![IMAGE](assets/img/presentation.png)
+A potential buyer aims to find a suitable neighborhood within Manhattan, New York City that is suitable for their living and raising a family. This problem is directed to potential buyers of real estate who have families to look after. The buyer could be searching for a property on their own or through the service of a real estate agent.
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
-
-@snap[west span-55]
-## Customize the Layout
-@snapend
+## Data and Methodology
+The data collected will be in the form of geographical information in a JSON file and information about neighborhoods and and venues within Manhattan Newyork using the Foursquare API. The data include latitude and longitude information about each neighborhood. It also includes information about venues such as restaurants, cafes, bars, pizza places, grocery stores, parks or gyms. The dataset could help in gaining information about common places.
 
 @snap[north-east span-45]
 ![IMAGE](assets/img/presentation.png)
@@ -76,7 +73,4 @@ REFERENCES "forum" ("id");
 ## Now It's **Your** Turn
 @snapend
 
-@snap[south-east span-50 text-center text-06]
-[Download GitPitch Desktop @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
 
