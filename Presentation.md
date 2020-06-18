@@ -16,7 +16,6 @@ The New York City data was cleaned to focus only on Manhattan which resulted on 
 
 #### What We Found, 
 Some of the recommended neighborhoods include the following:
-@ul[list-spaced-bullets text-09]
 - Inwood.
 - Hamilton Heights.
 - Stuyvesant Town.
