@@ -24,8 +24,6 @@ Some of the recommended neighborhoods include the following:
 - Upper East Side.
 
 ![IMAGE](assets/img/conference.png)
-@snapend
 
-@img[shadow](assets/img/conference.png)
 
 
